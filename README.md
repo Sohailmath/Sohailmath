@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Sohailmath
+- 👀 I’m interested in Robotics and Automation
+- 🌱 I’m currently learning Data Analytics
+- 💞️ I’m looking to collaborate on Time Series forecasting. 
+- 📫 You can reach me by dropping an email to sohailmath@gmail.com 
